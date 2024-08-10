@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+      "namespace": "android_app",
+      "package_name": "com.shumigaj.storageconnect",
+      "sha256_cert_fingerprints": ["C3:4F:03:7A:F8:91:F8:73:D8:4E:EA:7A:2F:D7:07:82:62:FA:80:1C:92:24:D5:E2:FE:EF:F2:28:7F:F9:4E:59"]
+  }
+}]
